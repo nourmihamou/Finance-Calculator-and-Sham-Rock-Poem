@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Finance
+comment0.text=\n\ This\ program\ takes\ as\ input\ the\ present\ value,\ annual\ interest\ and\ length\ of\ a\ loan\ and\ calculates\ the\ \n\ monthly\ payment,\ total\ payment\ the\ potential\ future\ value\ given\ a\ specified\ amount.\ \ \n\n\ @author\ Nour\ Mihamou\ and\ Lulama\ Nyembe\n\ @version\ 03/12/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=FiveLittleShamrocks
+comment0.text=\n\ This\ program\ outputs\ the\ poem\ "Five\ Little\ Shamrocks"\ with\ special\ characters.\n\n\ @author\ Nour\ M,\ Lulama\ N.\n\ @version\ 03/12/2021\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
